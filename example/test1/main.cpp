@@ -1,5 +1,6 @@
 
 #include "PPMImage.h"
+#include <cstdint>
 
 int main() {
     PPMImage test(255,255);
